@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* background-color: #f2faea; */
+  background-image: url("./4248396588_baf974a894_o.0.0.webp");
+  background-size: cover;
+}
+.container {
+  padding: 10px;
+  height: 100vh;
+  background-size: cover;
+}
